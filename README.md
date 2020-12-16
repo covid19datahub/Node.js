@@ -6,7 +6,7 @@
 Libraries [axios](https://www.npmjs.com/package/axios) (for online data fetching) and [csv-parse](https://www.npmjs.com/package/csv-parse) (for csv parsing). Install them by
 
 ```bash
-npm i -g axios csv-parse
+npm i axios csv-parse
 ```
 
 Once installed, fetch the data:
